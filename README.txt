@@ -1,0 +1,1 @@
+This randomly creates a pokemon map and prints the map to the console. 

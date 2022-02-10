@@ -1,0 +1,4 @@
+map: Moreland_Charlie_Assignment1.01.c
+	gcc Moreland_Charlie_Assignment1.01.c -Wall -Werror -o map
+clean:
+	rm -f *~ map
